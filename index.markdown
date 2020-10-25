@@ -5,13 +5,12 @@
 layout: page
 ---
 
-<img src="/assets/personal.jpg" width="320" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
+<img src="/assets/personal.jpeg" width="300" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
 <br />
 <br />
 
 # Welcome!
-
 
 This is my website where I post about [projects](/projects/) I've been involved during my studies.
 
