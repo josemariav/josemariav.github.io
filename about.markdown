@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/Valenzuela.jpeg" width="300" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
+<img src="/assets/personal.jpg" width="300" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
 <p align="justify"> I'm a student at Utrecht University, studying the transport of nanoplastics in our ocean. I'm working with the
 <a href="https://oceanparcels.org/utrechtteam">OceanParcels</a> and <a href="http://nanoplastics.org/">Nanoplastics</a> groups. </p>
