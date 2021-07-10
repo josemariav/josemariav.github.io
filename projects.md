@@ -4,7 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-**I'm currently working on the posts for the different projects I've worked on. I will upload them as I finish them.**
+# Governance of carbon neutrality and GHG removal
+
+
+# Governance of carbon neutrality and GHG removal
+
+
+
+# The comparative politics of energy and decarbonisations
+-----------
+<br />
+**Subnational climate action** <br />
+
 
 Some of the projects I have worked on.
 <ul>

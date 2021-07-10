@@ -1,24 +1,21 @@
 ---
 layout: page
-title: Publications
+title: Policy
 permalink: /publications/
 ---
 
-# The comparative politics of energy and decarbonisations
------------
-<br />
-**Subnational climate action** <br />
-
-
-# Global governance
+# Consultancy work
 -----------
 <br />
 
 
-# Mexican energy policy and politics
+# Official publications
 -----------
 <br />
 
+<!--**PhD Student in Physical Oceanography** <br />
+&nbsp;&nbsp;&nbsp;Utrecht University (2020 - 2024).<br />
+&nbsp;&nbsp;&nbsp; Project: _Transport of nanoplastics in the ocean._/>-->
 
 **M2 Environmental Fluid Mechanics.** <br />
 &nbsp;&nbsp;&nbsp;Université Grenoble Alpes (2019 - 2020).<br />
