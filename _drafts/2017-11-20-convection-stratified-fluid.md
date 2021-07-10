@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dafts
 title:  "2D Simulation of Convection in a Stratified Fluid"
 permalink: /projects/convection/
 youtubeId: mP6my1nAQlo

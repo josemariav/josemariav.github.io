@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: drafts
 title:  "Moguls of Chaos"
 permalink: /projects/moguls-of-chaos/
 ---
