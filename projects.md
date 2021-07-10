@@ -17,10 +17,10 @@ permalink: /projects/
 <p align="justify"> While I prepare my doctoral findings for publication, you can see early findings in these two recordings:</p> <br />
 
 
-<p align="justify"> Five minutes summary of my research: <a href="https://www.youtube.com/watch?v=xjIcWpTFGr8"> Do we have the institutions needed to address climate change in the electricity sector?</a> </p> <br />
+<p align="justify"> Five minutes summary of my research: <a href="https://www.youtube.com/watch?v=xjIcWpTFGr8"> Do we have the institutions needed to address climate change in the electricity sector?</a> </p> 
 
 <p align="justify"> Webinar with Prof Hao Zhang from Hong Kong Chinese University:
-<a href="https://www.youtube.com/watch?v=hJPmWGXpcKo"> Current challenges of renewable energy: integration in China</a> </p> <br />
+<a href="https://www.youtube.com/watch?v=hJPmWGXpcKo"> Current challenges of renewable energy: integration in China</a> </p>
 
 # Global Governance of climate-related financial risk
 ------------
