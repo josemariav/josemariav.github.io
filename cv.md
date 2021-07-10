@@ -7,8 +7,8 @@ permalink: /cv/
 
 # Affiliations
 ------------
-Postdoctoral researcher, Institute for Science Innovation and Society <br />
-Project _GGR-Governance and standards for carbon neutrality (GASCON)_ <br />
+Postdoctoral researcher, Institute for Science, Innovation and Society <br />
+Project: _GGR-Governance and standards for carbon neutrality (GASCON)_ <br />
 <br />
 **Other academic affiliations**<br />
 Oxford Martin Programme on Integrating Renewable Energy.<br />
@@ -86,7 +86,7 @@ Saïd Business School, University of Oxford. 2021 <br />
 Spanish (native).<br />
 English (proficient). <br />
 Chinese (intermediate). <br />
-Portugese (intermediate). <br />
+Portuguese (intermediate). <br />
 
 **Data and software**<br />
 _R, NVivo, Gephi_.
