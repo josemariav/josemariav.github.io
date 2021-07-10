@@ -8,7 +8,6 @@ layout: page
 <img src="/assets/personal.jpeg" width="300" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
 <br />
-<br />
 
 # Welcome!
 
