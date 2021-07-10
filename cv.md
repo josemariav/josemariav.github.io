@@ -19,26 +19,26 @@ Energy Programme, El Colegio de Mexico.
 **DPhil in Public Policy**<br />
 Blavatnik School of Government, University of Oxford
 <br />
-Thesis: "“Regulatory capacity, knowledge brokers, and the decarbonization of electricity systems- China, Chile, Mexico and the United Kingdom". Pass without corrections<br />
+Thesis: "Regulatory capacity, knowledge brokers, and the decarbonization of electricity systems". Pass without corrections<br />
 <br />
-_Supervisor_: Dr Thomas Hale; _Final Viva examiners_: Dr Jonas Nahm, Dr Marc Ventreca; _Confirmation of Status examiner_: Dr Karthik Ramanna, Dr Nick Eyre.
+_Supervisor_: Dr Thomas Hale; _Final Viva examiners_: Dr Jonas Nahm & Dr Marc Ventreca; _Confirmation of Status examiners_: Dr Karthik Ramanna & Dr Nick Eyre.
 <br />
 _Distinctions_: Giandomenico Majone Prize for best paper by a junior scholar at the Biennial Conference of the ECPR Standing Group on Regulatory Governance.
 
 **M.A. International Relations (IPE)**<br />
-The University of Chicago
-&nbsp;&nbsp;&nbsp;Thesis: The international regulation of climate-related financial disclosures. <br />
-&nbsp;&nbsp;&nbsp;Superivor: Dr. Gary Herrigel<br />
-&nbsp;&nbsp;&nbsp;Disctinctions: Honors.<br />
+The University of Chicago<br />
+Thesis: "The international regulation of climate-related financial disclosures". <br />
+Supervisor: Dr. Gary Herrigel<br />
+Disctinctions: Honors.<br />
 
 **M.P.A in International Development**<br />
-Tsinghua University
-Thesis: Mexico and China Low Carbon Development Pathways: From generic solutions to institutional strategies. <br />
+Tsinghua University <br />
+Thesis: "Mexico and China Low Carbon Development Pathways: From generic solutions to institutional strategies". <br />
 Supervisor: Dr. QI Ye<br />
 
 **B.A. in International Relations**<br />
-El Colegio de México
-Thesis: The Development of Transboundary Oil Fields. Mexican Diplomacy, International Law and the Political Economy of Oil. <br />
+El Colegio de México <br />
+Thesis: "The Development of Transboundary Oil Fields. Mexican Diplomacy, International Law and the Political Economy of Oil". <br />
 Supervisor: Prof. Celia Toro<br />
 <br />
 
