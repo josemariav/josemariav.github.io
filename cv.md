@@ -21,11 +21,9 @@ Blavatnik School of Government, University of Oxford
 <br />
 Thesis: "“Regulatory capacity, knowledge brokers, and the decarbonization of electricity systems- China, Chile, Mexico and the United Kingdom". Pass without corrections<br />
 <br />
-<br />
 _Supervisor_: Dr Thomas Hale; _Final Viva examiners_: Dr Jonas Nahm, Dr Marc Ventreca; _Confirmation of Status examiner_: Dr Karthik Ramanna, Dr Nick Eyre.
 <br />
-<br />
-&nbsp;&nbsp;&nbsp;_Distinctions_: Giandomenico Majone Prize for best paper by a junior scholar at the Biennial Conference of the ECPR Standing Group on Regulatory Governance.
+_Distinctions_: Giandomenico Majone Prize for best paper by a junior scholar at the Biennial Conference of the ECPR Standing Group on Regulatory Governance.
 
 **M.A. International Relations (IPE)**<br />
 The University of Chicago
