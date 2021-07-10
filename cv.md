@@ -42,17 +42,18 @@ Supervisor: Dr. QI Ye<br />
 El Colegio de México
 Thesis: The Development of Transboundary Oil Fields. Mexican Diplomacy, International Law and the Political Economy of Oil. <br />
 Supervisor: Prof. Celia Toro<br />
+<br />
 
 # Academic publicaciones
 ------------
 See [publications](/publications/)
 <br />
-
+<br />
 # Policy and institutional publications
 ------------
 See [policy work](/policy/)
 <br />
-
+<br />
 # Awards
 ------------
 <br />
@@ -64,10 +65,14 @@ Biennial Conference, ECPR Standing Group on Regulatory Governance<br />
 # Academic and professional membership
 ------------
 <br />
-Society for the Advancement of Socio Economics (SASE).<br />
-ECPR Standing Group on Regulatory Governance. <br />
-Earth System Governance (ESG).<br />
-International Council on Large Electricity Systems (CIGRE).<br />
+Society for the Advancement of Socio Economics (SASE).
+<br />
+ECPR Standing Group on Regulatory Governance.
+<br />
+Earth System Governance (ESG).
+<br />
+International Council on Large Electricity Systems (CIGRE).
+<br />
 
 # Selected teaching experience
 ------------
