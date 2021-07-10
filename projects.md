@@ -14,13 +14,13 @@ permalink: /projects/
 -----------
 <p align="justify"> My work on the politics of energy and decarbonisation started a decade ago and has increasingly focused on the electricity sector. Including, for example working with the Oxford Martin Programme on Integrating Renewable Energy. This work includes comparative research on the governance of the electricity industry beyond the focus on market reforms. My doctoral research shows the relevance of non-market actors (like research institutions) to explain the success on advancing the energy transition agenda.</p>
 
-<p align="justify"> While I prepare my doctoral findings for publication, you can see early findings in these two recordings:</p> <br />
+<p align="justify"> While I prepare my doctoral findings for publication, you can see early findings in these two recordings:</p>
 
-
-<p align="justify"> Five minutes summary of my research: <a href="https://www.youtube.com/watch?v=xjIcWpTFGr8"> Do we have the institutions needed to address climate change in the electricity sector?</a> </p> 
+<p align="justify"> Five minutes summary of my research: <a href="https://www.youtube.com/watch?v=xjIcWpTFGr8"> Do we have the institutions needed to address climate change in the electricity sector?</a> </p>
 
 <p align="justify"> Webinar with Prof Hao Zhang from Hong Kong Chinese University:
 <a href="https://www.youtube.com/watch?v=hJPmWGXpcKo"> Current challenges of renewable energy: integration in China</a> </p>
+
 
 # Global Governance of climate-related financial risk
 ------------
