@@ -12,7 +12,6 @@ layout: page
 
 # Welcome!
 
-This is my website where I post about [projects](/projects/) I've been involved during my studies.
 This is my website where I post about the [academic projects](/projects/) and [policy work](policy) that I'm developing or have completed.
 
 Feel free to contact me via email or social media, specially if you want a publication that is not available online.
