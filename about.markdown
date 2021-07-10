@@ -6,11 +6,6 @@ permalink: /about/
 
 <img src="/assets/personal.jpeg" width="300" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
-<p align="justify"> I'm a student at Utrecht University, studying the transport of nanoplastics in our ocean. I'm working with the
-<a href="https://oceanparcels.org/utrechtteam">OceanParcels</a> and <a href="http://nanoplastics.org/">Nanoplastics</a> groups. </p>
+<p align="justify"> I'm a postdoctoral fellow at the Institute for Science, Innovation and Society (<a href="https://www.insis.ox.ac.uk/">InSIS</a>) at the University of Oxford. I am also active member of the Oxford Martin Programme on Integrating Renewable Energy y the Energy Programme at El Colegio de México. I work on the intersection of global governance and the politics of knowledge and state capacity. </p>
 
-<!--<p align="justify"> During my career, I have worked on research projects related to Atmospheric Physics and Physical Oceanography that involved numerical simulations, data processing and observational fieldwork.</p>  />-->
-
-<p align="justify"> I'm interested in the study of large scale flows in the ocean using numerical simulations and direct observations to see how they transport plastic. I believe in the necessity of doing intelligent simplifications of problems and in constructing simple models to understand the underlying physics of certain processes. Also, I'm interested in dynamical systems in the atmosphere and the ocean.</p>
-
-<p align="justify"> In my free time, I like spending time outdoors and reading about exploration. I'm an occasional diver and climber, and lately, I've been rediscovering cycling and running, and I love it!</p>
+<p align="justify">  I'm part of the research team for the project GGR: Governance and standards for carbon neutrality (<a href="https://www.insis.ox.ac.uk/gascon-ggrs-governance-and-standards-carbon-neutrality">Gascon</a>). I also collaborate regularly with the Oxford Net Zero Initiative and the Oxford Scenarios Programme at Saïd Business School.</p>
