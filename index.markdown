@@ -13,6 +13,6 @@ layout: page
 # Welcome!
 
 This is my website where I post about [projects](/projects/) I've been involved during my studies.
-This is my website where I post about [projects](/projects/) I am currently working on or have completed in the past as an academic and as a policy expert in the field of energy and climate.
+This is my website where I post about the [academic projects](/projects/) and [policy work](policy) I am currently developed or have completed in the past as an expert in the field of energy and climate.
 
-Feel free to contact me via email or social media.
+Feel free to contact me via email or social media, specially if you want a publication that is not available online.
