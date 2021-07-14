@@ -32,8 +32,9 @@ _2017_“Market institutions, state ownership and intervention in the power sect
 
 **Books**
 <br />
-_2019_ "La Era Fotovltaica en México: Impulsando la generación distribuida con tecnología fotovoltaica en México", México: IER-UNAM/ONUDI. With Jorge M. Islas Samperio, Genice K. Grande Acosta, Fidel Carracto González. 
+_2019_ "La Era Fotovltaica en México: Impulsando la generación distribuida con tecnología fotovoltaica en México", México: IER-UNAM/ONUDI. With Jorge M. Islas Samperio, Genice K. Grande Acosta, Fidel Carrasco González. 
 <br />
+
 **Refeered articles**
 <br />
 _2014_“Power Systems of the Future”, <a href="http://www.nrel.gov/docs/fy15osti/62611.pdfThe">Electricity Journal</a>, 28: 113-126, with Owen Zinaman, Mackay Miller, Ali Adil, Douglas Arent, et al.
