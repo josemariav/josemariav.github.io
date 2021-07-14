@@ -50,3 +50,8 @@ _2014_“Power Systems of the Future”, <a href="http://www.nrel.gov/docs/fy15o
 **Reports**
 
 _2015_ “Clean Restructuring: Design Elements for Low- Carbon Wholesale Markets and Beyond”, <a href= "http://www.nrel.gov/docs/fy16osti/66105.pdf21t">Century Power Partnership</a>, with Monisha Shah, Hector Alejandro Beltran Mora, et al.
+
+**Academic opinions**
+
+_2015_ "China, from confrontation to leadership", _Foreing Affairs Latin-America_,Oct-Dec.
+<br />
