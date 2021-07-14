@@ -11,6 +11,11 @@ layout: page
 
 # Welcome!
 
-This is my website where I post about the [academic projects](/projects/) and [policy work](policy) that I'm developing or have completed.
+In this website you will find details about [academic projects](/projects/) and [policy work](policy).
 
 Feel free to contact me via email or social media, specially if you want a publication that is not available online.
+
+D.Phil. in Public policy, University of Oxford
+M.P.A in Public Administration, Tsinghua University
+M.A. in International Relations, University of Chicago
+B.A. in Internatinal Relations, Tsinghua University
