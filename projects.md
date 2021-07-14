@@ -24,7 +24,7 @@ permalink: /projects/
 
 # Global Governance of climate-related financial risk
 ------------
-<p An emerging subject in global governance is the analysis and disclosure of climate-related risk. The most public feature of the emerging regime is the Taskforce on Climate-Related Financial Disclosures (TCFD) created in 2015. I am interested in the three dimensions. First, the standardisation of risk depiction and analysis through private and public rule and practice making. Second, the paths of international difussion through markets and public regulators coordination. And, finally, the use of scenarios which, I believe, should be subjected to continuous public contestation. I hope to publish my findings on the three dimensions between 2021 and 2022. </p>
+<p align="justify">  An emerging subject in global governance is the analysis and disclosure of climate-related risk. The most public feature of the emerging regime is the Taskforce on Climate-Related Financial Disclosures (TCFD) created in 2015. I am interested in the three dimensions. First, the standardisation of risk depiction and analysis through private and public rule and practice making. Second, the paths of international difussion through markets and public regulators coordination. And, finally, the use of scenarios which, I believe, should be subjected to continuous public contestation. I hope to publish my findings on the three dimensions between 2021 and 2022. </a> </p>
 
 <!--
 <ul>
