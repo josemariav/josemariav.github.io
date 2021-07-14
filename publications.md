@@ -31,7 +31,7 @@ _2017_	“The Political Economy of Clean Energy Transition under the Golden Age 
 _2017_“Market institutions, state ownership and intervention in the power sector reform in Mexico”, <a href="http://programaenergia.colmex.mx/index.php/publicaciones/foro-energetico"> Foro Energético Working paper series</a>, El Colegio de Mexico.
 <br />
 
-“The Political Economy of Clean Energy Transition under the Golden Age of Gas”, <a href="https://www.wider.unu.edu/sites/default/files/wp2016-33.pdf">UNU- WIDER Working paper series </a>, United Nations University-WIDER and Joint Institute for Strategic Energy Analysis, with Isabel Studer.
+_2016_“The Political Economy of Clean Energy Transition under the Golden Age of Gas”, <a href="https://www.wider.unu.edu/sites/default/files/wp2016-33.pdf">UNU- WIDER Working paper series </a>, United Nations University-WIDER and Joint Institute for Strategic Energy Analysis, with Isabel Studer.
 <br />
 
 # Policy
