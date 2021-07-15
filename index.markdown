@@ -18,4 +18,4 @@ Feel free to contact me via email or social media, specially if you want a publi
 D.Phil. in Public policy, University of Oxford<br />
 M.P.A in Public Administration, Tsinghua University<br />
 M.A. in International Relations, University of Chicago<br />
-B.A. in Internatinal Relations, El Colegio de México
+B.A. in International Relations, El Colegio de México
