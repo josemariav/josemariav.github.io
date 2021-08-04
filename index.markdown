@@ -18,10 +18,12 @@ Feel free to contact me via email or social media, specially if you want a publi
 I am currently a Research Fellow at InSIS, University of Oxford, and I teach International Political Economy at El Colegio de México.
 
 **How to refer to my name**
+
 My full name is Jose Maria Valenzuela Robles Linares. You'll find that my work authored in English only includes my first name "Jose Maria" and the first part of my last name "Valenzuela".
 
 
 **Academic degrees**
+
 D.Phil. in Public policy, University of Oxford<br />
 M.P.A in Public Administration, Tsinghua University<br />
 M.A. in International Relations, University of Chicago<br />
