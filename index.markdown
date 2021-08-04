@@ -13,6 +13,8 @@ layout: page
 
 In this website you will find details about [academic projects](/projects/) and [policy work](policy).
 
+My full name is Jose Maria Valenzuela Robles Linares. But for ease you'll see all of my work authored in English simply as Jose Maria Valenzuela.
+
 Feel free to contact me via email or social media, specially if you want a publication that is not available online.
 
 D.Phil. in Public policy, University of Oxford<br />
