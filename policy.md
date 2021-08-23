@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policy
+title: Blog
 permalink: /policy/
 ---
 
