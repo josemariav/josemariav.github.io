@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
+# Entries for 2021
 -----------
 
 ****
