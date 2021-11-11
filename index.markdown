@@ -11,7 +11,7 @@ layout: page
 
 # Welcome!
 
-In this website you will find details about [academic projects](/projects/) and [policy work](/policy).
+In this website you will find details about [academic projects](/projects/) and [policy engagement](/blog).
 
 I am currently a Research Fellow at InSIS, University of Oxford, and I teach International Political Economy at El Colegio de México.
 
