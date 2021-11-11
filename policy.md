@@ -10,12 +10,13 @@ permalink: /blog/
 ****
 **El sector eléctrico ha cambiado (y el Estado también)**
 
-En este ensayo de opinión discuto la necesidad de dejar atrás la dicotomía entre estado-mercado cuando pensamos enla transición energética. No cabe duda que los hitos más importantes de transformación del sector eléctrico y expansión de renovables a nivel global han dependido de un involucramiento activo del estado como coordinador, inversionista o garante de riesgos de largo plazo. Y esto ocurre en economías tan dispares como Reino Unido, Marruecos, Vietnam y, claro, México.
+En este ensayo de opinión discuto la necesidad de dejar atrás la dicotomía entre estado-mercado cuando pensamos en la transición energética. No cabe duda que los hitos más importantes de transformación del sector eléctrico y expansión de renovables a nivel global han dependido de un involucramiento activo del estado como coordinador, inversionista o garante de riesgos de largo plazo. Y esto ocurre en economías tan dispares como Reino Unido, Marruecos, Vietnam y, claro, México.
 
 Discuto, por ejemplo, que una de las grandes fallas de la política energética fue negarse atener una política industrial aprovechando las subastas de energías renovables (como sí lo han hecho Brasil o Reino Unido).
 
 Pueden leer el artículo en <a href="https://rioarriba.mx/articulo.php?iden=el-sector-electrico-ha-cambiado-y-el-estado-tambien">RíoArriba</a>.
 
+<br />
 <br />
 
 **Germanwatch Climate Change Performance Index 2021**
@@ -25,6 +26,7 @@ As in previous years, I've participated as an expert to the Germanwatch CCPI rep
 You can <a href="https://germanwatch.org/en/21110">download the full report</a> to read on the case of Mexico and others.
 
 <br />
+<br />
 
 **Perspectivas Energética de El Colegio de México**
 
@@ -32,6 +34,7 @@ Coordiné el número 12 de Perspectivas Energéticas, que incluye una entrevista
 
 Pueden leer el número <a href="https://programaenergia.colmex.mx/wp-content/uploads/2021/10/Perspectivas-energeticas-12.pdf">  Doce de Perspectivas Energéticas</a>.
 
+<br />
 <br />
 
 **Climate ambition beyond emissions numbers IDDRI**
