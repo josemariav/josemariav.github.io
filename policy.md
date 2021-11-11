@@ -15,20 +15,23 @@ En este ensayo de opinión discuto la necesidad de dejar atrás la dicotomía en
 Discuto, por ejemplo, que una de las grandes fallas de la política energética fue negarse atener una política industrial aprovechando las subastas de energías renovables (como sí lo han hecho Brasil o Reino Unido).
 
 Pueden leer el artículo en <a href="https://rioarriba.mx/articulo.php?iden=el-sector-electrico-ha-cambiado-y-el-estado-tambien">RíoArribat</a>.
-
+<br />
+<br />
 **Germanwatch Climate Change Performance Index 2021**
 
 As in previous years, I've participated as an expert to the Germanwatch CCPI report regarding the Mexican case. The index components for Mexico include a relatively good position in emissions per capita and efficiency measures, but still a very low position regarding renewable energy. A key takeaway on new policies in the country is that the new policies to cap oil production is still not yet sufficient, since the country should move towards planning the phase out of production.
 
 You can <a href="https://germanwatch.org/en/21110">download the full report</a> to read on the case of Mexico and others.
-
+<br />
+<br />
 **Perspectivas Energética de El Colegio de México**
 
 Coordiné el número 12 de Perspectivas Energéticas, que incluye una entrevista y tres artículos en torno a emisiones cero (netas) en el sector energía. La entrevista con la Jaquelin Cochran es sobre el estudio Los Angeles 100 por ciento renovable (LA100), y el mensaje clave es que sí es posible tranformarla ciudad en 15 años y que es un nivel adecuado para planear la transformación. Los tres artículos de Daniel Buira, Héctor Beltrán y Elena Pierard, tratan los temas de planeación de largo plazo, descabonización del sistema eléctrico en México, y el comportamiento de las grandes empresas petroleras. El mensaje común es que no tenemos claridad sobre los pasos para la transición, aún si tenemos una idea del objetivo.
 
 Pueden leer el número <a href="https://programaenergia.colmex.mx/wp-content/uploads/2021/10/Perspectivas-energeticas-12.pdf">  Doce de Perspectivas Energéticas</a>.
 
-
+<br />
+<br />
 
 **Climate ambition beyond emissions numbers IDDRI**
 
