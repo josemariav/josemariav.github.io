@@ -54,4 +54,22 @@ responds to Colorado School of Mines scholars Isabelle Goetz and Greer Gosnell, 
 
 I argue that, if anything Mexico’s 2010s experience is a call to caution to avoid lock-in from natural gas infrastructure that changes the local political economy in favour of a more intensive fossil-fuel economy. In the case of Mexico this occurred by the government's choice to make the national electricity utility also the largest natural gas trader in the country.
 
-https://www.globalpolicyjournal.com/blog/11/08/2021/rejoinder-lessons-mexicos-gas-expansion-india-and-other-emerging-economies
+You can read the full opinion in <a href="https://www.globalpolicyjournal.com/blog/11/08/2021/rejoinder-lessons-mexicos-gas-expansion-india-and-other-emerging-economies">Global Policy</a>.
+
+
+# Entries for 2020
+
+
+**Video: Currrent challenge of renewable energy integration in China?**
+
+In this webinar I join Prof Hao Zhang from the Chinese University at Hong Kong to discuss the current form of chinese institutions to deal with the challenges of expanding renewable energy in the country. In particular we both put an emphasis on the challenge of wind and solar curtailmente. My presentation are based on the results from my doctoral thesis.
+
+Watch it at the Oxfor Martin School <a href="https://www.youtube.com/watch?v=hJPmWGXpcKo">video site</a>.
+
+
+
+**Video: Do we have the institutions we need on electricity?**
+
+As part of the University of Oxford Programme on Integrating Renewable Energy I presented my doctoral research project in 6 minutes. I discuss the importance of going beyong the "market reform" paradigm to explain success and understand how the entire ecology knowledge holders becomes important to regulators.
+
+Watch it at the Oxfor Martin School <a href="https://www.youtube.com/watch?v=xjIcWpTFGr8">video site</a>.
