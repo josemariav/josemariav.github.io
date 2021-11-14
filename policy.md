@@ -45,3 +45,13 @@ We argue that Mexico's slow climate action derives from the weight of the ocurre
 In a country divided between different views of the role of the state in the economy, it is essential to build political roadmaps of decarbonisation that work for an state-dominated energy industry, as well as one that is liberalised.
 
 You can <a href="https://www.iddri.org/en/publications-and-events/report/climate-ambition-beyond-emission-numbers-taking-stock-progress">download the full report</a> to read our thoughts and that of others.
+
+
+**Mexico natural gas import expansion as a climate mistake**
+
+In this entry into the opinions section to the journal Global Policy, I
+responds to Colorado School of Mines scholars Isabelle Goetz and Greer Gosnell, who wrote about lessons from Mexico’s gas import capacity expansion strategy to inform India’s natural gas policy.
+
+I argue that, if anything Mexico’s 2010s experience is a call to caution to avoid lock-in from natural gas infrastructure that changes the local political economy in favour of a more intensive fossil-fuel economy. In the case of Mexico this occurred by the government's choice to make the national electricity utility also the largest natural gas trader in the country.
+
+https://www.globalpolicyjournal.com/blog/11/08/2021/rejoinder-lessons-mexicos-gas-expansion-india-and-other-emerging-economies
