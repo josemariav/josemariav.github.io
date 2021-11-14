@@ -32,7 +32,7 @@ You can <a href="https://germanwatch.org/en/21110">download the full report</a> 
 
 Coordiné el número 12 de Perspectivas Energéticas, que incluye una entrevista y tres artículos en torno a emisiones cero (netas) en el sector energía. La entrevista con la Jaquelin Cochran es sobre el estudio Los Angeles 100 por ciento renovable (LA100), y el mensaje clave es que sí es posible tranformarla ciudad en 15 años y que es un nivel adecuado para planear la transformación. Los tres artículos de Daniel Buira, Héctor Beltrán y Elena Pierard, tratan los temas de planeación de largo plazo, descabonización del sistema eléctrico en México, y el comportamiento de las grandes empresas petroleras. El mensaje común es que no tenemos claridad sobre los pasos para la transición, aún si tenemos una idea del objetivo.
 
-Pueden leer el número <a href="https://programaenergia.colmex.mx/wp-content/uploads/2021/10/Perspectivas-energeticas-12.pdf">  Doce de Perspectivas Energéticas</a>.
+Pueden leer el número dice de <a href="https://programaenergia.colmex.mx/wp-content/uploads/2021/10/Perspectivas-energeticas-12.pdf"> de Perspectivas Energéticas</a>.
 
 <br />
 <br />
