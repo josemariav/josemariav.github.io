@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
+****
 # Entries for 2021
 
 ****
@@ -46,6 +47,8 @@ In a country divided between different views of the role of the state in the eco
 
 You can <a href="https://www.iddri.org/en/publications-and-events/report/climate-ambition-beyond-emission-numbers-taking-stock-progress">download the full report</a> to read our thoughts and that of others.
 
+<br />
+<br />
 
 **Mexico natural gas import expansion as a climate mistake**
 
@@ -56,9 +59,13 @@ I argue that, if anything Mexico’s 2010s experience is a call to caution to av
 
 You can read the full opinion in <a href="https://www.globalpolicyjournal.com/blog/11/08/2021/rejoinder-lessons-mexicos-gas-expansion-india-and-other-emerging-economies">Global Policy</a>.
 
+<br />
+<br />
 
+****
 # Entries for 2020
 
+****
 
 **Video: Currrent challenge of renewable energy integration in China?**
 
@@ -66,10 +73,14 @@ In this webinar I join Prof Hao Zhang from the Chinese University at Hong Kong t
 
 Watch it at the Oxfor Martin School <a href="https://www.youtube.com/watch?v=hJPmWGXpcKo">video site</a>.
 
-
+<br />
+<br />
 
 **Video: Do we have the institutions we need on electricity?**
 
 As part of the University of Oxford Programme on Integrating Renewable Energy I presented my doctoral research project in 6 minutes. I discuss the importance of going beyong the "market reform" paradigm to explain success and understand how the entire ecology knowledge holders becomes important to regulators.
 
 Watch it at the Oxfor Martin School <a href="https://www.youtube.com/watch?v=xjIcWpTFGr8">video site</a>.
+
+<br />
+<br />
