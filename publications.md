@@ -9,6 +9,9 @@ permalink: /publications/
 -----------
 **Refereed articles**
 
+_2022_ “In plain sight: The rise of state coordination and fall of liberalised markets in the United Kingdom power sector?”, <a href="https://www.sciencedirect.com/science/article/pii/S2214629622003851">Energy Research & Social Science</a>, 94: 102882, with John Rhys.
+<br />
+
 _2014_ “Climate Change Agenda at Subnational Level in Mexico: Policy coordination or policy competition?”, <a href="http://onlinelibrary.wiley.com/doi/10.1002/eet.1638/abstract">Environmental Policy and Governance</a>, 24: 188-203.
 <br />
 
