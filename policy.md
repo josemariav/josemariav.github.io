@@ -5,6 +5,39 @@ permalink: /blog/
 ---
 
 ****
+# Entries for 2023
+
+****
+**Remoción y captura de CO2: Agenda global**
+
+Como parte del Programa de Investigación en Cambio Climático de la UNAM impartí la conferencia "Remoción y captura de CO2: Agenda global". dentro de la serie de debates sobre Geoingeniría. Pueden ver mi ponencia en <a href="https://fb.watch/kypprxif5G/"> Facebook del PINCC-UNAM</a>.
+
+También consultar la mesa redonda con la Dra. Amparo Martínez, Dr Luis Fernández y Dra Rosa Maria Prol en <a href="https://fb.watch/kyptHM_QSI/"> Facebook del PINCC-UNAM</a>.
+
+****
+# Entries for 2022
+
+****
+**Scenarios for net zero: The case of UK Future Energy Scenarios - a webinar by Oxford Net Zero**
+
+I host the presentation of the UK Energy System Operator Future Energy Scenarios (FES). The FES are first of a kind exercise to consider alternative energy futures from the perspective of a (quasi) public agency. Along with to sector specialist we inquiry over "who and how" to use the scenarios in our business and academic choices.
+
+You can watch the recording in <a href="https://www.youtube.com/watch?v=f9BHjLJ9Rzc"> Oxford Net Zero YouTube</a>.
+
+**Carbon Offsets: Solution or Scam?**
+
+A guest with Nat Keohane and Mark Stevenson to the Grlobal Returns Project series, we discuss the nature of carbon offsets in international markets. Not surprising we agree in being concerned, but focus on different consequences of offsets going wrong.
+
+You can watch the recording in <a href="https://www.youtube.com/watch?v=4JUWRIhaE2I"> Oxford Net Zero YouTube</a>.
+
+**Mesa redonda “Gobernanza de la remoción y sumideros de carbono"**
+
+Coordino y modero esta mesa de discusión como parte de la colaboración entre El Colegio de México y la Universidad de Oxford para estudiar la gobernanza de las tecnologías y prácticas de emisiones negativas en México y Centro América.
+
+Pueden ver el video en  <a href="https://rioarriba.mx/articulo.php?iden=el-sector-electrico-ha-cambiado-y-el-estado-tambien">YouTube de El Colegio de México</a>.
+
+
+****
 # Entries for 2021
 
 ****
@@ -19,11 +52,11 @@ Pueden leer el artículo en <a href="https://rioarriba.mx/articulo.php?iden=el-s
 <br />
 <br />
 
-**Germanwatch Climate Change Performance Index 2021**
+**Germanwatch Climate Change Performance Index 2022**
 
-As in previous years, I've participated as an expert to the Germanwatch CCPI report regarding the Mexican case. The index components for Mexico include a relatively good position in emissions per capita and efficiency measures, but still a very low position regarding renewable energy. A key takeaway on new policies in the country is that the new policies to cap oil production is still not yet sufficient, since the country should move towards planning the phase out of production.
+I am a regular  expert to the Germanwatch CCPI report regarding the Mexican case. The index components for Mexico include a relatively good position in emissions per capita and efficiency measures, but still a very low position regarding renewable energy. A key takeaway on new policies in the country is that the new policies to cap oil production is still not yet sufficient, since the country should move towards planning the phase out of production.
 
-You can <a href="https://germanwatch.org/en/21110">download the full report</a> to read on the case of Mexico and others.
+You can <a href="https://www.germanwatch.org/en/CCPI">download the full report</a> to read on the case of Mexico and others.
 
 <br />
 <br />

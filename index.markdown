@@ -13,9 +13,9 @@ layout: page
 
 In this website you will find details about [academic projects](/projects/) and [policy engagement](/blog).
 
-I am currently a Research Fellow at InSIS, University of Oxford, and I teach International Political Economy at El Colegio de México.
+I am currently a Research Fellow at InSIS, University of Oxford. and I teach International Political Economy at El Colegio de México.
 
-I hold a doctoral degree from the Blavatnik School of Government, University of Oxford. Previously I studied at the University of Chicago, Tsinghua University and El Colegio de México in programas on international politics and policy. But my work equally benefits from my years working for the Mexican government, international NGOs, and as a consultant to international organization on climate and energy policy.
+I hold a doctoral degree from the Blavatnik School of Government, University of Oxford. Previously I studied at the University of Chicago, Tsinghua University and El Colegio de México  on international politics and policy. But my work equally benefits from my years working for the Mexican government, international NGOs, and as a consultant to international organization on climate and energy policy.
 
 Feel free to contact me via email or social media, especially if you want a publication that is not available online.
 

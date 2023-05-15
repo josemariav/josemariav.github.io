@@ -9,10 +9,13 @@ permalink: /cv/
 ------------
 Postdoctoral researcher, Institute for Science, Innovation and Society <br />
 Project: _GGR-Governance and standards for carbon neutrality (GASCON)_ <br />
+Project: _Ocean-based Negative Emission Technologies (OceanNETs)_ <br />
+<br />
 <br />
 **Other academic affiliations**<br />
-Oxford Martin Programme on Integrating Renewable Energy.<br />
-Energy Programme, El Colegio de Mexico.
+Oxford Net Zero.<br />
+Oxford Scenarios Programme.<br />
+Energy Programme, El Colegio de Mexico.<br />
 
 # Education
 ------------
@@ -58,6 +61,9 @@ See [policy work](/policy/)
 **Giandomenico Majone Prize**<br />
 Biennial Conference, ECPR Standing Group on Regulatory Governance<br />
 2021.<br />
+<br />
+**Future Energy Leader**<br />
+World Energy Council 2013-2017.<br />
 
 <br />
 # Academic and professional membership
@@ -79,6 +85,8 @@ International Political Economy, Advanced course, BA in International Relations,
 
 Facilitator for the Oxford Scenarios Program, Executive Education
 Saïd Business School, University of Oxford. 2021 <br />
+
+External examiner, Latin American Centre, University of Oxford. 2022-2023 <br />
 
 # Skills
 ------------
