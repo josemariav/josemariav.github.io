@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Blog bilingüe
 permalink: /blog/
 ---
 
@@ -13,28 +13,41 @@ permalink: /blog/
 Como parte del Programa de Investigación en Cambio Climático de la UNAM impartí la conferencia "Remoción y captura de CO2: Agenda global". dentro de la serie de debates sobre Geoingeniría. Pueden ver mi ponencia en <a href="https://fb.watch/kypprxif5G/"> Facebook del PINCC-UNAM</a>.
 
 También consultar la mesa redonda con la Dra. Amparo Martínez, Dr Luis Fernández y Dra Rosa Maria Prol en <a href="https://fb.watch/kyptHM_QSI/"> Facebook del PINCC-UNAM</a>.
+<br />
 
-****
-# Entries for 2022
-
-****
 **Scenarios for net zero: The case of UK Future Energy Scenarios - a webinar by Oxford Net Zero**
 
 I host the presentation of the UK Energy System Operator Future Energy Scenarios (FES). The FES are first of a kind exercise to consider alternative energy futures from the perspective of a (quasi) public agency. Along with to sector specialist we inquiry over "who and how" to use the scenarios in our business and academic choices.
 
 You can watch the recording in <a href="https://www.youtube.com/watch?v=f9BHjLJ9Rzc"> Oxford Net Zero YouTube</a>.
+<br />
 
-**Carbon Offsets: Solution or Scam?**
+****
+# Entries for 2022
 
-A guest with Nat Keohane and Mark Stevenson to the Grlobal Returns Project series, we discuss the nature of carbon offsets in international markets. Not surprising we agree in being concerned, but focus on different consequences of offsets going wrong.
-
-You can watch the recording in <a href="https://www.youtube.com/watch?v=4JUWRIhaE2I"> Oxford Net Zero YouTube</a>.
+****
 
 **Mesa redonda “Gobernanza de la remoción y sumideros de carbono"**
 
 Coordino y modero esta mesa de discusión como parte de la colaboración entre El Colegio de México y la Universidad de Oxford para estudiar la gobernanza de las tecnologías y prácticas de emisiones negativas en México y Centro América.
 
 Pueden ver el video en  <a href="https://rioarriba.mx/articulo.php?iden=el-sector-electrico-ha-cambiado-y-el-estado-tambien">YouTube de El Colegio de México</a>.
+<br />
+
+**Carbon Offsets: Solution or Scam?**
+
+A guest with Nat Keohane and Mark Stevenson to the Grlobal Returns Project series, we discuss the nature of carbon offsets in international markets. Not surprising we agree in being concerned, but focus on different consequences of offsets going wrong.
+
+You can watch the recording in <a href="https://www.youtube.com/watch?v=4JUWRIhaE2I"> Oxford Net Zero YouTube</a>.
+<br />
+
+
+
+**Biden y la transición energética: ¿Una ley para la inflación o para la seguridad energética?**
+
+En este ensayo de opinión describo la mayor legislación de política industrial de Estados Unidos en generaciones. La describo además como un cambio de paradigma en el sector energético en el país con un reconocimiento en el papel positivo de subsidios en el sector eléctrico, y la visibilización de la mano del estado en la tecnología (que siempre estuvo presente en Estados Unidos a través del gasto de defensa). Para México, es importante no caer en comparaciones fácil, y más bien es necesario aprovechar la oportunidad histórica de legitimar el papel de empresas del estado en el sector eléctrico y la expansión de servicios eléctricos como en el transporte público.
+
+Pueden leer el artículo en <a href="https://rioarriba.mx/articulo.php?iden=biden-y-la-transicion-energetica-una-ley-para-la-inflacion-o-para-la-seguridad-energetica">RíoArriba</a>.
 
 
 ****
@@ -50,7 +63,6 @@ Discuto, por ejemplo, que una de las grandes fallas de la política energética 
 Pueden leer el artículo en <a href="https://rioarriba.mx/articulo.php?iden=el-sector-electrico-ha-cambiado-y-el-estado-tambien">RíoArriba</a>.
 
 <br />
-<br />
 
 **Germanwatch Climate Change Performance Index 2022**
 
@@ -59,7 +71,6 @@ I am a regular  expert to the Germanwatch CCPI report regarding the Mexican case
 You can <a href="https://www.germanwatch.org/en/CCPI">download the full report</a> to read on the case of Mexico and others.
 
 <br />
-<br />
 
 **Perspectivas Energética de El Colegio de México**
 
@@ -67,7 +78,6 @@ Coordiné el número 12 de Perspectivas Energéticas, que incluye una entrevista
 
 Pueden leer el número dice de <a href="https://programaenergia.colmex.mx/wp-content/uploads/2021/10/Perspectivas-energeticas-12.pdf"> de Perspectivas Energéticas</a>.
 
-<br />
 <br />
 
 **Climate ambition beyond emissions numbers IDDRI**
@@ -81,7 +91,6 @@ In a country divided between different views of the role of the state in the eco
 You can <a href="https://www.iddri.org/en/publications-and-events/report/climate-ambition-beyond-emission-numbers-taking-stock-progress">download the full report</a> to read our thoughts and that of others.
 
 <br />
-<br />
 
 **Mexico natural gas import expansion as a climate mistake**
 
@@ -92,7 +101,6 @@ I argue that, if anything Mexico’s 2010s experience is a call to caution to av
 
 You can read the full opinion in <a href="https://www.globalpolicyjournal.com/blog/11/08/2021/rejoinder-lessons-mexicos-gas-expansion-india-and-other-emerging-economies">Global Policy</a>.
 
-<br />
 <br />
 
 ****
