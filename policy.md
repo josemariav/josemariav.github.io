@@ -7,12 +7,18 @@ permalink: /blog/
 ****
 # Entries for 2023
 
+
+****
+**Global Youth Climate Training**
+
+I delivered one of the sessions of the Global Youth Climate Training on mitigation from an equity and justice perspective. You can see the full session with other speakers and activities in the  <a href="https://fb.watch/kypprxif5G/"> YouTube channel</a> of the co-host, the University of Oxford Net Zero Iniaitive.
+
 ****
 **Remoción y captura de CO2: Agenda global**
 
-Como parte del Programa de Investigación en Cambio Climático de la UNAM impartí la conferencia "Remoción y captura de CO2: Agenda global". dentro de la serie de debates sobre Geoingeniría. Pueden ver mi ponencia en <a href="https://fb.watch/kypprxif5G/"> Facebook del PINCC-UNAM</a>.
+Como parte del Programa de Investigación en Cambio Climático de la UNAM impartí la conferencia "Remoción y captura de CO2: Agenda global". dentro de la serie de debates sobre Geoingeniría. Pueden ver mi ponencia en <a href="https://youtu.be/KMJzLUiMGoI"> Facebook del PINCC-UNAM</a>.
 
-También consultar la mesa redonda con la Dra. Amparo Martínez, Dr Luis Fernández y Dra Rosa Maria Prol en <a href="https://fb.watch/kyptHM_QSI/"> Facebook del PINCC-UNAM</a>.
+También consultar la mesa redonda con la Dra. Amparo Martínez, Dr Luis Fernández y Dra Rosa Maria Prol en <a href="https://youtu.be/KMJzLUiMGoI"> el canal de YouTube del PINCC-UNAM</a>.
 <br />
 
 **Scenarios for net zero: The case of UK Future Energy Scenarios - a webinar by Oxford Net Zero**
