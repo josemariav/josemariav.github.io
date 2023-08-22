@@ -5,9 +5,12 @@ permalink: /publications/
 ---
 
 
-# Comparative politics
+# Comparative and international political economy
 -----------
 **Refereed articles**
+
+_2023_ “State ownership in liberal economic governance? De-risking private investment in the electricity sector in Mexico”, <a href="https://www.sciencedirect.com/science/article/pii/S2452292923000437">World Development Perspectives</a>, 31: 1000527.
+<br />
 
 _2022_ “In plain sight: The rise of state coordination and fall of liberalised markets in the United Kingdom power sector?”, <a href="https://www.sciencedirect.com/science/article/pii/S2214629622003851">Energy Research & Social Science</a>, 94: 102882, with John Rhys.
 <br />
@@ -26,7 +29,10 @@ _2010_ “Transboundary oilfields. Between the Juridical and the Diplomatic Fact
 
 **Book chapters**
 
-_2021_	“Post-Paris climate ambition and the decarbonization of the electricity sector in Mexico” in Greizbord and Torres (eds.), International Commitment and Domestic Environmental Policy. In Spanish.
+_2023_	“Mexico: Energy Transition in an Uncertain Legal and Institutional Setting", <a href="https://doi.org/10.1515/9783110752403-035"> Handbook of Energy Law in the Low-Carbon Transition</a>, edited by Giuseppe Bellantuono, Lee Godden, Hanri Mostert, Hannah Wiseman and Hao Zhang, Berlin, Boston: De Gruyter, Oxford University Press, with Marisol Anglés.
+<br />
+
+_2023_	“Descarbonización del sector energía y armonización institucional internacional post-París”<a href="https://libros.colmex.mx/tienda/influencias-y-compromisos-internacionales-en-la-politica-ambiental-mexicana/"> Influencias y compromisos internacionales en la política ambiental mexicana </a>, editad por Blanca Torres y Boris Graizbord. Mexico: El Colegio de Mexico.
 <br />
 
 _2017_	“The Political Economy of Clean Energy Transition under the Golden Age of Gas”, in Douglas Arent et al. (eds.) <a href="https://global.oup.com/academic/product/the-political-economy-of-clean-energy-transitions-9780198802242?cc=gb&lang=en&"> The Political Economy of Clean Energy Transitions</a>, Oxford University Press, with Isabel Studer.
